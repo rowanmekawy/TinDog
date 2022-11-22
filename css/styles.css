@@ -77,8 +77,28 @@ p{
 }
 
 #testimonials{
-    padding: 7% 15%;
+    
     text-align: center;
     background-color: #ef8172;
     color: #fff;
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+
+.testimonials-img{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+#press{
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.press-img{
+    width: 15%;
+    margin: 20px 20px 50px;
 }
